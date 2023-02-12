@@ -7,7 +7,7 @@ export default class NavBar extends Component {
     render() {
         return (
             <Navbar bg="light" expand="lg">
-                <Navbar.Brand href="/"><i className="material-icons">work</i><b> JobsPlanet</b></Navbar.Brand>
+                <Navbar.Brand href="/"><i className="material-icons">work</i><b>Online Job Portal</b></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">

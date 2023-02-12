@@ -21,7 +21,7 @@ export default class Home extends Component {
         return (
             <Jumbotron fluid>
                 <Container>
-                    <h1 style={{ fontFamily: "monospace" }}>Welcome to JobsPlanet</h1>
+                    <h1 style={{ fontFamily: "monospace" }}>Welcome to Online Job Portal!!</h1>
                     <p>
                     <h6><b><i>The easiest way to find your dream job!</i></b></h6>
                     </p>
